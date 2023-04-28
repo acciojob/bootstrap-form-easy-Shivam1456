@@ -1,2 +1,33 @@
 
-/* Your CSS Code here. */
+.mb-3{
+
+	border:2px solid red;
+/*      width: 430px; */
+/*     margin: 5px 0; */
+    float:left;
+}
+.shivam{
+	border:10px solid green;
+/* 	height:300px; */
+	display:flex;
+	justify-content:center;
+}
+.jk{
+	border:5px solid blue;
+	height:300px;
+	width:700px;
+}
+.sk{
+
+	paddingl-left: ;
+	text-align: center;
+	
+}
+.form-control{
+	width:220px
+}
+
+	
+	
+	
+
