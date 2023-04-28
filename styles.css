@@ -126,8 +126,19 @@
 .pk{
 	padding-left:25px;
 }
-.btn btn-primary{
-	background-color:blue; 
+.vk{
+/* 	background-color:blue; */
+/*      background-color: #4CAF50; */
+/* 	background-color: blue; */
+/* 	color: white; */
+/* 	border-style: outset; */
+/* 	border-color: #0066A2; */
+/* 	height: 20px; */
+/* 	width: 50px; */
+/* 	font: bold15px arial,sans-serif; */
+/* 	text-shadow: none; */
+	border:2px solid pink;
+/* 	font-color:blue; */
 }
 
 	
