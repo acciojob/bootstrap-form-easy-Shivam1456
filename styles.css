@@ -24,7 +24,19 @@
 	
 }
 .form-control{
-	width:220px
+/* 	width:220px */
+}
+#inp1{
+	width:222px;
+}
+#inp4{
+	width:250px;
+}
+#inp5{
+	width:150px
+}
+#inp6{
+	width:150px
 }
 
 	
