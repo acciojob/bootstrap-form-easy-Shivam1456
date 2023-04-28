@@ -1,11 +1,75 @@
 
+.mb-1{
+
+	border:2px solid red;
+/*      width: 430px; */
+/*     margin: 5px 0; */
+    float:left;
+	 border-collapse: separate;
+  border-spacing: 50px;
+	padding-right:1em;
+	
+}
+.mb-2{
+
+	border:2px solid red;
+/*      width: 430px; */
+/*     margin: 5px 0; */
+    float:left;
+	 border-collapse: separate;
+  border-spacing: 50px;
+	padding-right:1em;
+}
 .mb-3{
 
 	border:2px solid red;
 /*      width: 430px; */
 /*     margin: 5px 0; */
     float:left;
+	 border-collapse: separate;
+  border-spacing: 50px;
 }
+.mb-4{
+
+	border:2px solid red;
+/*      width: 430px; */
+/*     margin: 5px 0; */
+    float:left;
+	 border-collapse: separate;
+  border-spacing: 50px;
+	padding-right:1em;
+	
+}
+.mb-5{
+
+	border:2px solid red;
+/*      width: 430px; */
+/*     margin: 5px 0; */
+    float:left;
+	 border-collapse: separate;
+  border-spacing: 50px;
+	padding-right:1em;
+}
+.mb-6{
+
+	border:2px solid red;
+/*      width: 430px; */
+/*     margin: 5px 0; */
+    float:left;
+	 border-collapse: separate;
+  border-spacing: 50px;
+	padding-right:1em;
+}
+.mb-7{
+
+	border:2px solid red;
+/*      width: 430px; */
+/*     margin: 5px 0; */
+    float:left;
+	 border-collapse: separate;
+  border-spacing: 50px;
+}
+
 .shivam{
 	border:10px solid green;
 /* 	height:300px; */
@@ -27,16 +91,34 @@
 /* 	width:220px */
 }
 #inp1{
-	width:222px;
+	width:213px;
+}
+#inp2{
+	width:213px;
+}
+#inp3{
+	width:215px;
 }
 #inp4{
-	width:250px;
+	width:302px;
 }
 #inp5{
-	width:150px
+	width:163px
 }
 #inp6{
-	width:150px
+	width:163px
+}
+.invalid-feedback{
+	font-size:12px
+/* 	color:pink; */
+	
+}
+.form-check-label{
+	font-size:12px
+/* 	 color:pink; */
+}
+.mb-3 form-check{
+/* 	color:green; */
 }
 
 	
